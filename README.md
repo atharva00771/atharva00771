@@ -26,7 +26,7 @@
 
 🧠 Currently learning **Advanced SQL, Power BI, DAX & Machine Learning**
 
-💡 I enjoy transforming raw data into **meaningful insights and practical solutions**
+💡 I enjoy transforming raw data into **meaningful insights and practical solutions.**
 
 🚀 Aspiring **Data Analyst / AI Engineer**
 
@@ -103,7 +103,7 @@
 
 # 🚀 Featured Projects
 
-## ☕ Starbucks Beverage Analysis
+### ☕ Starbucks Beverage Analysis
 
 **Power BI • Data Analytics • Dashboard**
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 🛒 Sales Analytics Dashboard
+### 🛒 Sales Analytics Dashboard
 
 **Power BI • DAX • Data Analytics**
 
@@ -125,7 +125,7 @@
 
 ---
 
-## 🚢 Titanic Survival Prediction
+### 🚢 Titanic Survival Prediction
 
 **Python • Scikit-Learn • Logistic Regression**
 
@@ -137,7 +137,7 @@
 
 ---
 
-## 💰 Salary Prediction
+### 💰 Salary Prediction
 
 **Python • Machine Learning • Linear Regression**
 
@@ -163,17 +163,158 @@
 
 <div align="center">
 
-```text
-🐍 Python
-      ↓
-📊 Data Analysis
-      ↓
-🗄️ Advanced SQL
-      ↓
-📈 Power BI & DAX
-      ↓
-🤖 Machine Learning
-      ↓
-🧠 Artificial Intelligence
-      ↓
-🚀 Real-World Projects
+🐍 **Python** → 📊 **Data Analysis** → 🗄️ **Advanced SQL** → 📈 **Power BI** → 🤖 **Machine Learning** → 🧠 **AI**
+
+</div>
+
+---
+
+# 🏆 Certifications & Experience
+
+<div align="center">
+
+| 📜 Category | Details |
+|:---|:---|
+| 📊 Data Analytics | Data Analytics Certification |
+| 🧠 Data Analytics | Cisco Data Analyst Course |
+| 💼 Experience | Data Analyst Internship Experience |
+| 🤖 Machine Learning | Hands-on Machine Learning Projects |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva00771&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva00771&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=atharva00771&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva00771&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🗓️ Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharva00771&theme=tokyonight" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=atharva00771&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 📊 My Learning Journey
+
+<div align="center">
+
+| 🚀 Stage | 📚 Skills |
+|:---:|:---|
+| 01 | 🐍 Python |
+| 02 | 🐼 Pandas & NumPy |
+| 03 | 📊 Data Visualization |
+| 04 | 🗄️ SQL |
+| 05 | 📈 Power BI & DAX |
+| 06 | 🤖 Machine Learning |
+| 07 | 🧠 Artificial Intelligence |
+| 08 | 🚀 Real-World Projects |
+
+</div>
+
+---
+
+# 🎯 Career Focus
+
+<div align="center">
+
+## 💼 Aspiring Data Analyst
+
+**Python • SQL • Excel • Power BI • DAX • Data Visualization**
+
+<br>
+
+## 🤖 Exploring AI & Machine Learning
+
+**Building practical projects and continuously improving my skills.**
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/atharva00771">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/atharvaavhad07">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 My Philosophy
+
+<div align="center">
+
+### 🌱 Every Dataset Has a Story
+
+### 📊 Every Problem Has a Data-Driven Solution
+
+### 🚀 Every Project Is an Opportunity to Learn
+
+### 🔥 Consistency Creates Progress
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Turning Data into Insights
+
+## 🤖 Building Solutions with AI
+
+## 🚀 Learning • Building • Growing
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,35:00BFFF,70:00E5FF,100:7B2FF7&height=140&section=footer"/>
+
+</div>
