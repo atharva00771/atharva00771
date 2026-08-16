@@ -1,95 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00E5FF&height=220&section=header&text=Atharva%20Avhad&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:00BFFF,75:00E5FF,100:7B2FF7&height=240&section=header&text=ATHARVA%20AVHAD&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Data+Driven+Solutions+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Data-Driven+Solutions+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+%7C+Building+%7C+Improving+Every+Day+%F0%9F%94%A5"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=atharva00771&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/213911140-6c8e7f6d-2d9d-4b0e-8c4e-7d7c0f1c8b5a.gif"/>
 
 🎓 **B.Tech – Artificial Intelligence & Data Science**
 
+📍 **Nashik, Maharashtra, India**
+
 📊 Passionate about **Data Analytics, Machine Learning & AI**
 
-💡 I enjoy transforming data into meaningful insights and building practical solutions.
+🐍 Building projects using **Python, SQL & Power BI**
 
-🚀 Aspiring **Data Analyst / AI Engineer**
+🧠 Currently strengthening my knowledge in **Machine Learning & Advanced SQL**
+
+💡 I enjoy transforming raw data into **meaningful insights and practical solutions.**
+
+🚀 Aspiring to build a career as a **Data Analyst / AI Engineer**
+
+🔥 My approach:
+
+> **Learn → Build → Analyze → Improve → Repeat**
+
+<br clear="right"/>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-| 🎓 Degree | 🏫 Institute | 📅 Year |
-|---|---|---|
-| B.Tech – AI & Data Science | Matoshri College of Engineering & Research Center, Nashik | 2029 |
+<div align="center">
+
+| 🎓 Degree | 🏫 Institute | 📅 Graduation |
+|:---|:---|:---:|
+| **B.Tech – AI & Data Science** | **Matoshri College of Engineering & Research Center, Nashik** | **2029** |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming & Database
+## 💻 Programming & Database
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
 </p>
 
-### 📊 Data Analytics & Visualization
+---
 
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+## 📊 Data Analytics & Visualization
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### 🤖 Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logistic_Regression-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linear_Regression-00BFFF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔧 Tools & Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
 
 ### ☕ Starbucks Beverage Analysis
-**Power BI Dashboard**
 
-📊 Sales & product analysis  
-📈 Interactive visualizations  
+**Power BI • Data Analytics • Dashboard**
+
+📊 Sales & product performance  
+📈 Interactive dashboard  
 🧹 Data cleaning & transformation  
 💡 Business insights  
 
 ---
 
 ### 🛒 Sales Analytics Dashboard
-**Power BI + Data Analytics**
+
+**Power BI • DAX • Data Analytics**
 
 📊 Sales performance analysis  
-👥 Customer insights  
-📦 Product analysis  
-📈 Interactive dashboard  
+👥 Customer analysis  
+📦 Product performance  
+📈 Interactive KPIs & visualizations  
 
 ---
 
 ### 🚢 Titanic Survival Prediction
-**Machine Learning**
 
-🤖 Logistic Regression  
+**Python • Scikit-Learn • Logistic Regression**
+
+🤖 Binary Classification  
 🧹 Data preprocessing  
 🎯 Feature selection  
 📊 Model evaluation  
@@ -97,67 +144,37 @@
 
 ---
 
-## 📚 Currently Learning
+### 💰 Salary Prediction
 
-<p align="center">
+**Python • Machine Learning • Linear Regression**
+
+📊 Salary dataset analysis  
+🤖 Regression model  
+📈 Prediction  
+📐 Model evaluation using R²  
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI_%26_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
 
-</p>
-
----
-
-## 🏆 Certifications & Experience
-
-📜 Data Analytics Certification  
-📜 Cisco Data Analyst Course  
-💼 Data Analyst Internship Experience  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva00771&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva00771&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva00771&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/atharva00771">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/atharvaavhad07">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Turning Data into Insights. Building Solutions with AI. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00E5FF&height=120&section=footer"/>
-
-</div>
+```text
+📊 Data Analytics
+      ↓
+🧠 Machine Learning
+      ↓
+🤖 Artificial Intelligence
+      ↓
+🚀 Real-World Projects
