@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,35:00BFFF,70:00E5FF,100:7B2FF7&height=240&section=header&text=ATHARVA%20AVHAD&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
+# 👋 Hi, I'm Atharva Avhad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Data-Driven+Solutions+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+%7C+Building+%7C+Improving+Every+Day+%F0%9F%94%A5"/>
+### 🎓 B.Tech AI & Data Science Student | 📊 Data Analyst | ☁️ Cloud & AWS Learner | 🤖 ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+SQL+%7C+Power+BI;Python+%7C+Machine+Learning;Linux+%7C+AWS+%7C+Cloud+Computing;Learning+%7C+Building+%7C+Growing"/>
 
 <br>
 
@@ -14,37 +16,23 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/213911140-6c8e7f6d-2d9d-4b0e-8c4e-7d7c0f1c8b5a.gif"/>
-
 🎓 **B.Tech – Artificial Intelligence & Data Science**
+
+🏫 **Matoshri College of Engineering & Research Center, Nashik**
 
 📍 **Nashik, Maharashtra, India**
 
-📊 Passionate about **Data Analytics, Machine Learning & AI**
+📊 Passionate about **Data Analytics, Machine Learning & Business Intelligence**
 
-🐍 Building projects using **Python, SQL & Power BI**
+🐍 Building projects using **Python, SQL, Excel & Power BI**
 
-🧠 Currently learning **Advanced SQL, Power BI, DAX & Machine Learning**
+🐧 Learning **Linux & Bash Scripting**
 
-💡 I enjoy transforming raw data into **meaningful insights and practical solutions.**
+☁️ Exploring **AWS, EC2 & Cloud Computing**
 
-🚀 Aspiring **Data Analyst / AI Engineer**
+🧠 Currently improving my skills in **Advanced SQL, Power BI, DAX, Machine Learning, Linux & AWS**
 
-🔥 **Learn → Build → Analyze → Improve → Repeat**
-
-<br clear="right"/>
-
----
-
-# 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institute | 📅 Graduation |
-|:---|:---|:---:|
-| **B.Tech – AI & Data Science** | **Matoshri College of Engineering & Research Center, Nashik** | **2029** |
-
-</div>
+🚀 Interested in **Data Analyst, AI/ML & Cloud opportunities**
 
 ---
 
@@ -72,6 +60,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
@@ -91,11 +80,37 @@
 
 ---
 
-## 🔧 Tools
+## 🐧 Linux & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,aws"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-00BFFF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔧 Tools & Platforms
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
@@ -103,48 +118,65 @@
 
 # 🚀 Featured Projects
 
-### ☕ Starbucks Beverage Analysis
+## ☕ Starbucks Beverage Analysis
 
-**Power BI • Data Analytics • Dashboard**
+**Power BI • Data Analytics • Data Visualization**
 
-📊 Sales & product performance  
-📈 Interactive visualizations  
-🧹 Data cleaning & transformation  
-💡 Business insights  
-
----
-
-### 🛒 Sales Analytics Dashboard
-
-**Power BI • DAX • Data Analytics**
-
-📊 Sales performance analysis  
-👥 Customer insights  
-📦 Product analysis  
-📈 Interactive KPIs & dashboards  
+- 📊 Beverage and product analysis
+- 📈 Interactive dashboard
+- 🧹 Data cleaning and transformation
+- 💡 Business insights
+- 📌 KPI-based analysis
 
 ---
 
-### 🚢 Titanic Survival Prediction
+## 🛒 Sales Analytics Dashboard
 
-**Python • Scikit-Learn • Logistic Regression**
+**Power BI • DAX • SQL • Data Analytics**
 
-🤖 Binary Classification  
-🧹 Data preprocessing  
-🎯 Feature selection  
-📊 Model evaluation  
-🔮 Passenger survival prediction  
+- 📊 Sales performance analysis
+- 👥 Customer analysis
+- 📦 Product performance
+- 📈 Interactive KPIs
+- 🔍 Business insights
 
 ---
 
-### 💰 Salary Prediction
+## 🚢 Titanic Survival Prediction
 
-**Python • Machine Learning • Linear Regression**
+**Python • Pandas • Scikit-Learn • Logistic Regression**
 
-📊 Data analysis  
-🤖 Regression model  
-📈 Salary prediction  
-📐 R² model evaluation  
+- 🧹 Data preprocessing
+- 🔍 Feature selection
+- 🤖 Binary classification
+- 📊 Model evaluation
+- 🎯 Survival prediction
+
+---
+
+## 💰 Salary Prediction
+
+**Python • Pandas • Scikit-Learn • Linear Regression**
+
+- 📊 Exploratory data analysis
+- 🧹 Data preprocessing
+- 🤖 Regression model
+- 📈 Salary prediction
+- 📐 R² evaluation
+
+---
+
+## 🐧 Linux File Management Project
+
+**Linux • Bash • AWS EC2**
+
+- 📁 Directory management
+- 📄 File management
+- 📜 Bash scripting
+- 📋 File copy operations
+- 🔄 File renaming
+- 🔐 Basic permissions
+- ☁️ Executed on AWS EC2
 
 ---
 
@@ -155,30 +187,65 @@
 <img src="https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI_%26_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-🐍 **Python** → 📊 **Data Analysis** → 🗄️ **Advanced SQL** → 📈 **Power BI** → 🤖 **Machine Learning** → 🧠 **AI**
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-00BFFF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🏆 Certifications & Experience
+# 🎓 Education
+
+| 🎓 Degree | 🏫 Institute | 📅 Graduation |
+|:---|:---|:---:|
+| **B.Tech – AI & Data Science** | **Matoshri College of Engineering & Research Center, Nashik** | **2029** |
+
+---
+
+# 📈 Learning Journey
 
 <div align="center">
 
-| 📜 Category | Details |
-|:---|:---|
-| 📊 Data Analytics | Data Analytics Certification |
-| 🧠 Data Analytics | Cisco Data Analyst Course |
-| 💼 Experience | Data Analyst Internship Experience |
-| 🤖 Machine Learning | Hands-on Machine Learning Projects |
+🐍 **Python**
+↓
+🐼 **Pandas & NumPy**
+↓
+📊 **Data Visualization**
+↓
+🗄️ **SQL**
+↓
+📈 **Power BI & DAX**
+↓
+🤖 **Machine Learning**
+↓
+🧠 **Artificial Intelligence**
+↓
+🐧 **Linux & Bash**
+↓
+☁️ **AWS & Cloud Computing**
+↓
+🚀 **Real-World Projects**
+
+</div>
+
+---
+
+# 🎯 Career Focus
+
+<div align="center">
+
+### 📊 Data Analytics
+
+**Python • SQL • Excel • Power BI • DAX • Data Visualization**
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+**Python • Pandas • Scikit-Learn • Machine Learning**
+
+### ☁️ Cloud Computing
+
+**Linux • Bash • AWS • EC2 • SSH • Cloud Fundamentals**
 
 </div>
 
@@ -188,7 +255,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva00771&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharva00771&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva00771&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -200,27 +267,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=atharva00771&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva00771&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🗓️ Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharva00771&theme=tokyonight" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=atharva00771&theme=tokyonight&hide_border=true" width="700"/>
 
 </div>
 
@@ -231,43 +278,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=atharva00771&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 📊 My Learning Journey
-
-<div align="center">
-
-| 🚀 Stage | 📚 Skills |
-|:---:|:---|
-| 01 | 🐍 Python |
-| 02 | 🐼 Pandas & NumPy |
-| 03 | 📊 Data Visualization |
-| 04 | 🗄️ SQL |
-| 05 | 📈 Power BI & DAX |
-| 06 | 🤖 Machine Learning |
-| 07 | 🧠 Artificial Intelligence |
-| 08 | 🚀 Real-World Projects |
-
-</div>
-
----
-
-# 🎯 Career Focus
-
-<div align="center">
-
-## 💼 Aspiring Data Analyst
-
-**Python • SQL • Excel • Power BI • DAX • Data Visualization**
-
-<br>
-
-## 🤖 Exploring AI & Machine Learning
-
-**Building practical projects and continuously improving my skills.**
 
 </div>
 
@@ -293,13 +303,17 @@
 
 <div align="center">
 
-### 🌱 Every Dataset Has a Story
+### 📊 Turn Data Into Insights
 
-### 📊 Every Problem Has a Data-Driven Solution
+### 🤖 Build Practical AI Solutions
 
-### 🚀 Every Project Is an Opportunity to Learn
+### 🐧 Learn Linux & Cloud
 
-### 🔥 Consistency Creates Progress
+### ☁️ Explore AWS
+
+### 🚀 Build Projects
+
+### 🔥 Keep Improving
 
 </div>
 
@@ -307,14 +321,8 @@
 
 <div align="center">
 
-## 💙 Turning Data into Insights
+## 🌱 Learn • Build • Analyze • Deploy • Grow
 
-## 🤖 Building Solutions with AI
-
-## 🚀 Learning • Building • Growing
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,35:00BFFF,70:00E5FF,100:7B2FF7&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,35:00BFFF,70:00E5FF,100:7B2FF7&height=130&section=footer"/>
 
 </div>
