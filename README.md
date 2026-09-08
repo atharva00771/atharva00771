@@ -142,8 +142,6 @@ Hands-on practice with:
 <img src="https://img.shields.io/badge/GitHub-Atharva%20Avhad-181717?style=for-the-badge&logo=github" />
 </a>
 
- 
-
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Avhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
